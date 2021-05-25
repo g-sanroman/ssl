@@ -17,11 +17,11 @@ void mostrar_ayuda()
 	puts("\n");
 	puts("Comandos disponibles:");
 	puts("> cadmayus	Cadena a mayuscula.");
-	puts("> cadaint	Cadena a integer.");
-	puts("> cadcont	Contar caracteres de cadena.");
-	puts("> concat 	Concatenar dos cadenas.");
+	puts("> cadaint		Cadena a integer.");
+	puts("> cadcont		Contar caracteres de cadena.");
+	puts("> concat		Concatenar dos cadenas.");
 	puts("> carmodif	Modificar caracter en cadena.");
-	puts("> carelim	Eliminar caracter en cadena.");
+	puts("> carelim		Eliminar caracter en cadena.");
 	puts("\n");
 }
 
